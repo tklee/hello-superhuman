@@ -1,0 +1,13 @@
+/log
+/tmp
+.DS_Store
+.idea/
+.sass-cache
+*~
+node_modules
+*.out
+npm-debug.log
+environment
+
+/public/js/bundle.js
+/public/js/bundle.js.map
